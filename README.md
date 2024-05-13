@@ -1,4 +1,4 @@
-# stock-predictor
+# stock price predictor
 This website predicts closing price, highest price and lowest price using opening price which is entered by the user. Machine Learning and Deep Learning is used. When any stocks are entered, the following are found:-
 - Returns ( Daily, Monthly, Annually)
 - Mean of returns
